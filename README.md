@@ -1,4 +1,4 @@
-# All in pack devkrzyzanowskiLib.lib
+# All in pack devkrzyzanowskiLib.lbr
 
 # Stepstick
 ![alt text](https://raw.githubusercontent.com/devkrzyzanowski/Eagle/master/STEPSTICK_img.png)
